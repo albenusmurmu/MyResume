@@ -2,7 +2,7 @@
 
 You can view and download my resume from the link below:
 
-<a href="./albenus-peter.pdf" download>
+<a href="./albenus-murmu(1).pdf" download>
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=readthedocs" alt="Download Resume">
 </a>
 
